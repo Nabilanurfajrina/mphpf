@@ -57,6 +57,7 @@ class HomeController extends Controller
 
         $this->_mStudent->addNew($name, $address, $phoneNumber);
     }
+
 }
 
 
